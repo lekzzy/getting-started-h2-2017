@@ -87,6 +87,7 @@
 (87) Orobosa Cornelius (Slack: Orobosa, Github: OrobosaV)
 (88) Essien Saviour Aniefiok (Slack: @essien, Github: iamessien
 (89) Gabriel Umoh (Slack: @gmaumoh, Github: @gabumoh)
+(90) Peter Johnson, peterjohnson, Rhasu
 (90) Grace Essien (Slack: graceessien Github: AniekanE)
 (91) Ekpoto Liberty (Slack: ekpoto, Github: delino12)
 (92) Peter Peregbakumo (Slack: peterperez, Github: peterperez)
