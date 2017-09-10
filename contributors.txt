@@ -2,7 +2,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
-(4) Fregene Efe-Uririn, efefregene, efefregene
+j(4) Fregene Efe-Uririn, efefregene, efefregene
 (5) Joe-smith Essang
 (6) Chinke Ifeyinwa Ruth (github: eephie) (slack: ifychinke)
 (7) Sam Esidem
@@ -12,7 +12,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
 (13) John Otu
-(14) Alaba Mustapha
+j(14) Alaba Mustapha
 (15) Adeshina Ibrahim
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
 (17) Adegbola Simeon
@@ -21,6 +21,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
 (21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
+
 (23) Usheninte Dangana [github: @Usheninte] [slack: @ninte]
 (24) Daniella Mato, @daniella, dmpire
 (25) Enyi-Christopher Joshua, christofajosh, christofajosh
@@ -73,3 +74,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
 (73) Joda Opemipo, opsijay, Zaida-3dO (74)Saheed Oladele (slack: kayrode1, github:suretrust) (75)Nwabuokei Nnamdi(slack:nnamdi16, github:nnamdi16)  (76) Nwabuokei Ifeanyichukwu (slack: Ifylala, github:Ifylala)
 (77) Esu Samuel Asuquo (Slack: samuelesu, Github:samuelesu)
+(78) Edoho Mkpouto (slack: point4fame, Github: @point4fame)
