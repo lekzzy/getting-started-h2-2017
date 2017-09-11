@@ -17,7 +17,7 @@ j(14) Alaba Mustapha
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
 (17) Adegbola Simeon
 (18) Michael Okoh, @trojan, ichtrojan
-(19) David Ukauwa
+(7(19) David Ukauwa
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
 (21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
@@ -26,9 +26,8 @@ j(14) Alaba Mustapha
 (24) Daniella Mato, @daniella, dmpire
 (25) Enyi-Christopher Joshua, christofajosh, christofajosh
 (26) Ademola Abisayo Paul, @sayopaul , sayopaul2
-(27) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
-(28) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
-(29) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
+(7(27) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
+(28) Akunne Obinna, (slack : obinna_akunne), (github: thirdwri(29) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
 (30) Okunniga samson Tosin, (github: Teegold007) (slack:teegoldz)
 (31) Olatunbosun Gabriel, @bosunski, bosunski
 (32) Alexandrix Ikechukwu, cornevan, SpaghettiThots
@@ -74,4 +73,5 @@ j(14) Alaba Mustapha
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
 (73) Joda Opemipo, opsijay, Zaida-3dO (74)Saheed Oladele (slack: kayrode1, github:suretrust) (75)Nwabuokei Nnamdi(slack:nnamdi16, github:nnamdi16)  (76) Nwabuokei Ifeanyichukwu (slack: Ifylala, github:Ifylala)
 (77) Esu Samuel Asuquo (Slack: samuelesu, Github:samuelesu)
-(78) Edoho Mkpouto (slack: point4fame, Github: @point4fame)
+(78) Edoho Mkpouto (slack: point4fame, Github: @po9
+(79) Lasisi Olalekan Hameed (slack: @lasisiolalekan, Github: lekzzy)
